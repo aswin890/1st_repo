@@ -1,0 +1,19 @@
+div{
+    height: 700px;
+    width: 22%;
+    background-color: blanchedalmond;
+    border: white 2px solid;
+    text-align: center;
+    color: rgb(2, 0, 0);
+    float: left;
+    padding: 15px;
+}
+p{
+    font-size: larger;
+}
+img{
+    border-radius: 10px;
+}
+#b1{
+    border-radius: 20px;
+}
